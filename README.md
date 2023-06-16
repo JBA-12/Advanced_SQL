@@ -6,5 +6,5 @@ In this, the Database Queries are Accessed and Executed using JDBC.
 
 A university database from the following link has been used for this work <br>
 https://www.db-book.com/university-lab-dir/sample_tables-dir/index.html <br>
-<strong>DDL.sql</strong> file has the code to generate all the required tables and <srong>largeRelationsInsertFile.sql</strong> contains the required data about the database to be inserted into the created tables.<br>
+<strong>DDL.sql</strong> file has the code to generate all the required tables and <strong>largeRelationsInsertFile.sql</strong> contains the required data about the database to be inserted into the created tables.<br>
 
